@@ -1,0 +1,8 @@
+application/team.java
+ application.team
+application/blader.java
+ application.blader
+application/Main.java
+ application.Main
+application/tournament.java
+ application.tournament
