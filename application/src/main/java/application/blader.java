@@ -12,4 +12,14 @@ public class blader
         this.bladerName = bladerName;
         this.captain = captain;
     }
+    
+    public int getBladerNum()
+    {
+        return bladerNum;
+    }
+    
+    public String getBladerName()
+    {
+        return bladerName;
+    }
 }
